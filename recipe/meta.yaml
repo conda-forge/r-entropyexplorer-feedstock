@@ -35,7 +35,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=EntropyExplorer
-  license: GPL-3
+  license: GPL-3.0-only
   summary: Rows of two matrices are compared for Shannon entropy, coefficient of variation, and
     expression. P-values can be requested for all metrics.
   license_family: GPL3
