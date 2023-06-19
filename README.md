@@ -1,11 +1,11 @@
-About r-entropyexplorer
-=======================
+About r-entropyexplorer-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-entropyexplorer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=EntropyExplorer
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-entropyexplorer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Rows of two matrices are compared for Shannon entropy, coefficient of variation, and expression. P-values can be requested for all metrics.
 
